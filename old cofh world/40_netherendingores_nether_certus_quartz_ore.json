@@ -1,0 +1,27 @@
+{
+	"dependencies": "netherendingores",
+	"populate": {
+		"nether-certus-quartz": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "netherendingores:ore_nether_modded_1",
+					"metadata": 9
+				},
+				"material": "minecraft:netherrack",
+				"cluster-size": 8
+			},
+			"cluster-count": 3,
+			"min-height": 10,
+			"max-height": 118,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		}
+	}
+}
