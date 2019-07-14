@@ -4,12 +4,22 @@
 		"end-certus-quartz": {
 			"distribution": "uniform",
 			"generator": {
-				"block": {
-					"name": "netherendingores:ore_end_modded_1",
-					"properties": {
-						"type": "end_certus_quartz_ore"
+				"block": [
+					{
+						"name": "netherendingores:ore_end_modded_1",
+						"properties": {
+							"type": "end_certus_quartz_ore"
+						},
+						"weight": 92
+					},
+					{
+						"name": "netherendingores:ore_end_modded_1",
+						"properties": {
+							"type": "end_charged_certus_quartz_ore"
+						},
+						"weight": 8
 					}
-				},
+				],
 				"material": "minecraft:end_stone",
 				"cluster-size": 3
 			},

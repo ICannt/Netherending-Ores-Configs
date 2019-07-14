@@ -2,7 +2,6 @@
 	"dependencies": "thermalfoundation",
 	"populate": {
 		"platinum": {
-			"enabled": "false",
 			"distribution": "uniform",
 			"generator": {
 				"block": [

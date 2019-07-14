@@ -2,7 +2,6 @@
 	"dependencies": "thermalfoundation",
 	"populate": {
 		"ender_clathrate": {
-			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {

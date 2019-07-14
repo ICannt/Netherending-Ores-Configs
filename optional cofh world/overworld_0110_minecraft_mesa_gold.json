@@ -1,7 +1,6 @@
 {
 	"populate": {
 		"mesa_gold": {
-
 			"distribution": "uniform",
 			"generator": {
 				"block": {
