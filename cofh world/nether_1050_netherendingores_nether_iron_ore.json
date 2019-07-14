@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_nether_vanilla",
 					"properties": {
-						"type": "nether_iron_ore"
+						"blocks": "iron_ore"
 					}
 				},
 				"material": "minecraft:netherrack",

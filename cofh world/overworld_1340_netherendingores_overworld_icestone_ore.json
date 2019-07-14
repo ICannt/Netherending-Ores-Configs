@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_other_1",
 					"properties": {
-						"type": "overworld_icestone_ore"
+						"blocks": "overworld_icestone_ore"
 					}
 				},
 				"material": "minecraft:stone",

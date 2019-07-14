@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_nether_vanilla",
 					"properties": {
-						"type": "nether_emerald_ore"
+						"blocks": "emerald_ore"
 					}
 				},
 				"material": "minecraft:netherrack",

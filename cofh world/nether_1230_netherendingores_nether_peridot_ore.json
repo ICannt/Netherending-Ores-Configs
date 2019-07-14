@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_nether_modded_2",
 					"properties": {
-						"type": "nether_peridot_ore"
+						"blocks": "peridot_ore"
 					}
 				},
 				"material": "minecraft:netherrack",

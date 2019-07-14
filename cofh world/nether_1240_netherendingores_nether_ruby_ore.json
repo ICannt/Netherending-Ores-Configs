@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_nether_modded_2",
 					"properties": {
-						"type": "nether_ruby_ore"
+						"blocks": "ruby_ore"
 					}
 				},
 				"material": "minecraft:netherrack",

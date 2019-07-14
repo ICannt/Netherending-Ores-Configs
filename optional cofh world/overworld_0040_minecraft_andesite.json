@@ -1,12 +1,12 @@
 {
 	"populate": {
-		"granite": {
+		"andesite": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "stone",
 					"properties": {
-						"variant": "granite"
+						"variant": "andesite"
 					}
 				},
 				"material": "minecraft:stone",

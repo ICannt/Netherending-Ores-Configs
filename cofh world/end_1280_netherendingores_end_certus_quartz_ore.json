@@ -8,14 +8,14 @@
 					{
 						"name": "netherendingores:ore_end_modded_1",
 						"properties": {
-							"type": "end_certus_quartz_ore"
+							"blocks": "certus_quartz_ore"
 						},
 						"weight": 92
 					},
 					{
 						"name": "netherendingores:ore_end_modded_1",
 						"properties": {
-							"type": "end_charged_certus_quartz_ore"
+							"blocks": "charged_certus_quartz_ore"
 						},
 						"weight": 8
 					}

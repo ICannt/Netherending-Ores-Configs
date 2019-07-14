@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_end_modded_1",
 					"properties": {
-						"type": "end_nickel_ore"
+						"blocks": "nickel_ore"
 					}
 				},
 				"material": "minecraft:end_stone",

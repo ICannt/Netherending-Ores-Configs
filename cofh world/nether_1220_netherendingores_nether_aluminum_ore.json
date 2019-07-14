@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
 					"properties": {
-						"type": "nether_aluminum_ore"
+						"blocks": "aluminum_ore"
 					}
 				},
 				"material": "minecraft:netherrack",

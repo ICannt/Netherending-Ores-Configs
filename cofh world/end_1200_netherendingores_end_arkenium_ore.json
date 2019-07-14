@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_end_modded_2",
 					"properties": {
-						"type": "end_arkenium_ore"
+						"blocks": "arkenium_ore"
 					}
 				},
 				"material": "minecraft:end_stone",

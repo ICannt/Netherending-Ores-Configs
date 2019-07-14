@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_nether_modded_2",
 					"properties": {
-						"type": "nether_icestone_ore"
+						"blocks": "icestone_ore"
 					}
 				},
 				"material": "minecraft:netherrack",

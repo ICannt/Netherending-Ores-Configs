@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_end_vanilla",
 					"properties": {
-						"type": "end_lapis_ore"
+						"blocks": "lapis_ore"
 					}
 				},
 				"material": "minecraft:end_stone",

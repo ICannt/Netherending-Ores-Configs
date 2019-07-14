@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_nether_modded_1",
 					"properties": {
-						"type": "nether_mithril_ore"
+						"blocks": "mithril_ore"
 					}
 				},
 				"material": "minecraft:netherrack",

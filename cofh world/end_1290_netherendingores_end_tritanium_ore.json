@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_end_modded_1",
 					"properties": {
-						"type": "end_tritanium_ore"
+						"blocks": "tritanium_ore"
 					}
 				},
 				"material": "minecraft:end_stone",

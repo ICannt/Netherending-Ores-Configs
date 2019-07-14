@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_end_vanilla",
 					"properties": {
-						"type": "end_diamond_ore"
+						"blocks": "diamond_ore"
 					}
 				},
 				"material": "minecraft:end_stone",

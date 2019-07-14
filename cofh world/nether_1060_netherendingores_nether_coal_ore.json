@@ -7,7 +7,7 @@
 				"block": {
 					"name": "netherendingores:ore_nether_vanilla",
 					"properties": {
-						"type": "nether_coal_ore"
+						"blocks": "coal_ore"
 					}
 				},
 				"material": "minecraft:netherrack",
