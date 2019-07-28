@@ -1,6 +1,6 @@
-##############################################
-# Readme for Netherending Ores - Configs 1.1 #
-##############################################
+################################################
+# Readme for Netherending Ores - Configs 1.1.1 #
+################################################
 
 
 --- CoFH World ---
@@ -17,10 +17,14 @@ If you are starting a new server/world then proceed with the setup below.
 
 -CoFH World Basic Setup-
 
-Extract the ore generation configs from the "cofh world" folder in this archive to "config\cofh\world\" of your modpack instance in order to use them.
-If you don't want a particular ore to generate, simply delete the file from "config\cofh\world\".
+Extract the ore generation configs from the "cofh world - neo <version>" folder in this archive to "config\cofh\world\" of your modpack instance in order to use them.
+<version> should match the version of Netherending Ores that you have installed.
+Individual files from newer versions 1.3+ e.g. 1.4 include more ores, CoFH World will log errors if non-existant ores are configured to spawn.
+
+If you don't want a particular ore to generate, simply delete the extracted file from "config\cofh\world\".
 Having the ores in single files makes it easy to configure what you need to generate without editing JSON.
-Change the number to a lower number in the file name if you want to generate it earlier.
+Change the number in the filename to a lower number if you want to generate it earlier, lower numbers have higher priority.
+
 
 -CoFH World Advanced Setup-
 
